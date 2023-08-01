@@ -16,8 +16,8 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Co-Founder and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> building solutions.
+- :telescope: I’m currently building Samudai
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-navin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thenavin)
 ---
 
